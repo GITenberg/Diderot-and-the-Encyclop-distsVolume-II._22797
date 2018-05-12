@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3767
     wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22797#Diderot-and-the-Encyclop-distsVolume-II.
 gutenberg_issued: '2007-09-28'
 gutenberg_type: Text
 identifiers:
